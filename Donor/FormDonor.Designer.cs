@@ -52,7 +52,7 @@
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(379, 67);
-            this.panel1.TabIndex = 3;
+            this.panel1.TabIndex = 0;
             // 
             // lbltext
             // 
@@ -92,7 +92,7 @@
             this.btnSave.Location = new System.Drawing.Point(29, 241);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(91, 34);
-            this.btnSave.TabIndex = 8;
+            this.btnSave.TabIndex = 5;
             this.btnSave.Text = "Save";
             this.btnSave.UseVisualStyleBackColor = false;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click_1);
@@ -103,7 +103,7 @@
             this.txtEmail.Location = new System.Drawing.Point(29, 91);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(294, 23);
-            this.txtEmail.TabIndex = 7;
+            this.txtEmail.TabIndex = 2;
             // 
             // label5
             // 
@@ -112,7 +112,7 @@
             this.label5.Location = new System.Drawing.Point(26, 75);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(36, 15);
-            this.label5.TabIndex = 6;
+            this.label5.TabIndex = 0;
             this.label5.Text = "Email";
             // 
             // txtPhone
@@ -121,7 +121,7 @@
             this.txtPhone.Location = new System.Drawing.Point(29, 137);
             this.txtPhone.Name = "txtPhone";
             this.txtPhone.Size = new System.Drawing.Size(294, 23);
-            this.txtPhone.TabIndex = 5;
+            this.txtPhone.TabIndex = 3;
             // 
             // label4
             // 
@@ -130,7 +130,7 @@
             this.label4.Location = new System.Drawing.Point(26, 121);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(41, 15);
-            this.label4.TabIndex = 4;
+            this.label4.TabIndex = 0;
             this.label4.Text = "Phone";
             // 
             // txtAddress
@@ -139,7 +139,7 @@
             this.txtAddress.Location = new System.Drawing.Point(29, 185);
             this.txtAddress.Name = "txtAddress";
             this.txtAddress.Size = new System.Drawing.Size(294, 23);
-            this.txtAddress.TabIndex = 3;
+            this.txtAddress.TabIndex = 4;
             // 
             // label3
             // 
@@ -148,7 +148,7 @@
             this.label3.Location = new System.Drawing.Point(26, 167);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(49, 15);
-            this.label3.TabIndex = 2;
+            this.label3.TabIndex = 0;
             this.label3.Text = "Address";
             // 
             // txtName
